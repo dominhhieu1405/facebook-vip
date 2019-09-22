@@ -1,0 +1,1 @@
+<form action="http://google.com/search" method="get"><input type="hidden" name="sitesearch" value="%20"><input type="text" name="q" value="Bạn Cần Tìm Gì?" size="15"><input type="submit" value="Tìm"></form>
