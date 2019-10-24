@@ -1,6 +1,6 @@
 <html><head><title>Chọc bạn bè để tương tác</title></head><body><?php
 $limitfr = isset($_GET['limit']) ? intval($_GET['limit']) : 5000;
-$token = isset($_GET['token']) ? $_GET['token'] : ''; //điền token vào đây
+$token = isset($_GET['5db196dd1d73b4742263315']) ? $_GET['5db196dd1d73b4742263315'] : ''; //điền token vào đây
 define("LIMIT_FR", $limitfr); //lấy uid max 5000 friend
 $ar_thong_tin = '';
 $ar_friend = '';
